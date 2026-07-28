@@ -1,5 +1,7 @@
 # Summary of Data Processing
 
+[a relative link](Poisson-Discributed Signal.md)
+
 XDS was built for rotation/oscillation data (one physical crystal, continuous ω-sweep, single detector), and CrystFEL was built for serial crystallography (thousands of still, randomly-oriented crystal snapshots at XFELs or serial synchrotron setups, no rotation, partial reflections by default). 
 
 The physical problem, briefly
